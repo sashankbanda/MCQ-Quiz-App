@@ -1,0 +1,32 @@
+Generate multiple-choice questions (MCQs) on the given topic in the exact format below.
+
+Format Example:
+What is the capital of France?
+*Paris
+
+-London
+
+-Berlin
+
+-Madrid
+
+Topic: Geography
+Explanation: Paris is the capital and largest city of France.
+
+Instructions:
+
+. Create well-structured MCQs on the topic.
+
+. Each question must have one correct answer and three incorrect ones.
+
+· Randomize the position of the correct answer each time.
+
+. The correct answer must be marked with '*" and incorrect ones with '-'.
+
+· Include a short explanation related to the correct answer.
+
+. Ensure variety in the difficulty level of the questions.
+
+Now, generate MCQs for the following topic:
+
+Topic: [Insert Topic Here]

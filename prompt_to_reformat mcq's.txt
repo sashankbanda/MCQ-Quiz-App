@@ -1,0 +1,33 @@
+Reformat the following multiple-choice questions into this exact format:
+
+Example Format:
+What is the capital of France?
+*Paris
+
+-London
+
+-Berlin
+
+-Madrid
+
+Topic: Geography
+Explanation: Paris is the capital and largest city of France.
+
+Instructions:
+
+. If the 2nd option is correct, it should remain correct but shuffled among all options.
+
+. The correct answer must be marked with '*' and placed randomly.
+
+. The incorrect answers must be marked with '-' and shuffled as well.
+
+. Each question must have a topic and a short explanation.
+
+. Do not always place the correct answer first! Randomly place it each time.
+
+Now, apply this format to the following MCQs:
+below is the topic name which is same for all questions
+
+Topic:
+
+[Insert MCQs Here]
