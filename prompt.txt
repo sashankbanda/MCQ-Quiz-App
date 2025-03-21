@@ -1,0 +1,28 @@
+Reformat the following multiple-choice questions into the exact format below:
+
+Format:
+
+1. [Question text]
+*[Correct answer]
+-[Incorrect answer]
+-[Incorrect answer]
+-[Incorrect answer]
+
+Topic: [Insert Topic]
+Explanation: [Short explanation related to the correct answer]
+
+Instructions:
+
+. The correct answer should always have '*" in front of it.
+
+. The other options should have '-' in front of them.
+
+· Randomly shuffle the options while keeping the correct answer marked.
+
+· Keep the explanation concise and relevant.
+
+. Maintain numbering for each question.
+
+Here are the existing MCQs for reformatting:
+
+[PASTE YOUR MCQs HERE]
